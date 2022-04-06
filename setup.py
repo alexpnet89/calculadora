@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="projeto_calc",
-    version="0.0.1",
+    version="0.0.2",
     author="Alex Pereira",
     author_email="alexpnet89@gmail.com",
     description="Teste de empacotamento",

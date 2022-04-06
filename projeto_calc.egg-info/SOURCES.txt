@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+pacote_soma/__init__.py
+pacote_soma/modulo_soma.py
+projeto_calc.egg-info/PKG-INFO
+projeto_calc.egg-info/SOURCES.txt
+projeto_calc.egg-info/dependency_links.txt
+projeto_calc.egg-info/top_level.txt

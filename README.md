@@ -14,8 +14,9 @@ pip install projeto_calc
 ## Uso
 
 ```python
-from pacote_soma.modulo_soma import funcao_soma
-funcao_soma()
+from pacote_soma import soma
+z = soma(1, 10)
+print(z)
 ```
 
 ## Author
